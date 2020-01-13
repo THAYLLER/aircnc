@@ -49,4 +49,4 @@ After create and init the cluster, change the database config in <b>backend/src/
 
 <hr/>
 
-### <a href="http://linkedin.com/in/leonardoalmeida99">Connect me in LinkedIn</a> | <a href="http://behance.net/almeida99">See my Behance</a> | <a href="https://leunardo.dev">Click here to go to my CV</a>
+### <a href="https://www.linkedin.com/in/thayller-vilela-15a41b57/">Connect me in LinkedIn</a> | <a href="https://www.devnow.com.br">Click here to go to my web site</a>
